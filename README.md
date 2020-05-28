@@ -36,3 +36,14 @@ To install ```pytest```, run ```pip install -U pytest``` in your terminal. You c
 In the test output, periods represent successful unit tests and F's represent failed unit tests. Since all you see is what test functions failed, it's wise to have only one ```assert``` statement per test. Otherwise, you wouldn't know exactly how many tests failed, and which tests failed.
 
 Your tests won't be stopped by failed ```assert``` statements, but it will stop if you have syntax errors.
+
+## 6. Quiz: Unit Tests
+Before you begin, make sure to run this command in your terminal to install pytest:
+```
+pip3 install -U pytest
+```
+Then, to run pytest, just enter:
+```
+pytest
+```
+Right now, not all of the tests should pass. Fix the function to pass all its tests! Once all your tests pass, try writing some additional unit tests of your own!
