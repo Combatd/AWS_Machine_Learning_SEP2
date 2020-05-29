@@ -180,3 +180,9 @@ df['last_names'] = last_names
 
 ``` df['first_name'], df['last_name'] = df['name'].str.split(' ', 1).str ```
 
+## 14. Conclusion
+This was just an introduction, as this is a very large set of skills that software engineers should work on continuously.
+By getting through this lesson, you've made a good start to your
+development of software engineering skills.
+We encourage you to research further and practice using these skills
+as you continue your path to becoming a great data scientist.
