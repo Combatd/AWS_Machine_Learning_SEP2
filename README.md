@@ -56,3 +56,6 @@ can think of, before even starting to write your function. This way, when you do
 you can run this test to get immediate feedback on whether it works or not in all the ways you can think of, as you tweak your function.
 * When refactoring or adding to your code, tests help you rest assured 
 that the rest of your code didn't break while you were making those changes. Tests also helps ensure that your function behavior is repeatable, regardless of external parameters, such as hardware and time.
+
+## 8. Logging
+Logging is valuable for understanding the events that occur while running your program. For example, if you run your model over night and see that it's producing ridiculous results the next day, log messages can really help you understand more about the context in which this occurred. Lets learn about the qualities that make a log message effective.
