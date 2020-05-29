@@ -88,3 +88,6 @@ INFO - level to record all actions that are user-driven or system specific, such
 Bad: Failed to read location data
 Good: Failed to read location data: store_id 8324971
 ```
+
+## 10. Quiz: Logging
+If you recall from the last lesson, it's best practice to use concise and clear language that is professional and uses normal capitalization. This way, the message is efficient and easily understandable. The second sentence seems quite unclear and personal, so we should remove that and communicate it elsewhere.
